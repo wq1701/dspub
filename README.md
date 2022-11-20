@@ -17,7 +17,7 @@ Public Hosting for demo files and shared materials.
 ## data wrangling
 
 - Things you might forget about R (tidyverse)
-	- View [[cheatsheet.Rmd](https://wq1701.github.io/dspub/cheatsheet.html)]
+	- View [[R Markdown](https://wq1701.github.io/dspub/data_wrangling/r_tidyverse/cheatsheet.html)]
 
 - Translate SQL to Python (Pandas)
-	- View [https://nbviewer.org/github/wq1701/dspub/blob/master/data_wrangling/python/py2sql.ipynb]
+	- View [[Jupyter Notebook](https://nbviewer.org/github/wq1701/dspub/blob/master/data_wrangling/python/py2sql.ipynb)]
