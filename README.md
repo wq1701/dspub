@@ -2,9 +2,13 @@
 
 Public Hosting for demo files and shared materials.
 
+https://wq1701.github.io/dstoolbox/
+
 - [Data Science Pub](#ds-pub)
   - [Documentation Listings](#documentation-listings)
   	- [data wrangling](#data-wrangling)
+  	- [data visualization WIP](#data-viz)
+  	- [preprocessing WIP](#preproc)
 
 
 # Data Science Pub
@@ -21,3 +25,10 @@ Public Hosting for demo files and shared materials.
 
 - Translate SQL to Python (Pandas)
 	- View [[Jupyter Notebook](https://nbviewer.org/github/wq1701/dspub/blob/master/data_wrangling/python/py2sql.ipynb)]
+
+## data visualization WIP
+
+## preprocessing WIP
+
+
+
