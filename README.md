@@ -1,8 +1,6 @@
-# Data Science Pub
-
 Public Hosting for demo files and shared materials.
 
-[Reference](https://wq1701.github.io/dstoolbox/)
+[dstoolbox](https://wq1701.github.io/dstoolbox/)
 
 - [Data Science Pub](#ds-pub)
   - [Documentation Listings](#documentation-listings)
