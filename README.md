@@ -24,6 +24,9 @@ Public Hosting for demo files and shared materials.
 - Translate SQL to Python (Pandas)
 	- View [[Jupyter Notebook](https://nbviewer.org/github/wq1701/dspub/blob/main/data_wrangling/python/py2sql.ipynb)]
 
+- Regex 101
+	- View [[Jupyter Notebook](https://nbviewer.org/github/wq1701/dspub/blob/main/data_wrangling/python/regex_101.ipynb)]
+
 ## data visualization WIP
 
 ## preprocessing WIP
