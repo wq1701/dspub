@@ -32,13 +32,11 @@ Public Hosting for demo files and shared materials.
 ## python coding
 
 - Efficient Python
-	- [[html](https://wq1701.github.io/dspub/python_coding/py_effici.html)]
-
+	- [[R Markdown site](https://wq1701.github.io/dspub/python_coding/py_effici.html)]
 - Python pitfalls
-	- [[html](https://wq1701.github.io/dspub/python_coding/py_pitfalls.html)]
-
+	- [[R Markdown site](https://wq1701.github.io/dspub/python_coding/py_pitfalls.html)]
 - Python quiz
-	- [[html](https://wq1701.github.io/dspub/python_coding/py_guess.html)]
+	- [[R Markdown site](https://wq1701.github.io/dspub/python_coding/py_guess.html)]
 
 ## data visualization WIP
 
