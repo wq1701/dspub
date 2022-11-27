@@ -5,6 +5,7 @@ Public Hosting for demo files and shared materials.
 - [Data Science Pub](#ds-pub)
   - [Documentation Listings](#documentation-listings)
   	- [data wrangling](#data-wrangling)
+  	- [python coding](#python-coding)
   	- [data visualization WIP](#data-viz)
   	- [preprocessing WIP](#preproc)
 
@@ -26,6 +27,18 @@ Public Hosting for demo files and shared materials.
 
 - Regex 101
 	- View [[Jupyter Notebook](https://nbviewer.org/github/wq1701/dspub/blob/main/data_wrangling/python/regex_101.ipynb)]
+
+
+## python coding
+
+- Efficient Python
+	- [[html](https://wq1701.github.io/dspub/python_coding/py_effici.html)]
+
+- Python pitfalls
+	- [[html](https://wq1701.github.io/dspub/python_coding/py_pitfalls.html)]
+
+- Python quiz
+	- [[html](https://wq1701.github.io/dspub/python_coding/py_guess.html)]
 
 ## data visualization WIP
 
