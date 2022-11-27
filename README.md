@@ -1,5 +1,11 @@
 Public Hosting for demo files and shared materials.
 
+**totally unrelated notes**
+
+If the content is about R written in `Rmarkdown`, then I will use theme `rmdformats::readthedown:`
+
+If it is about Python but rendered in `Rmarkdown`, then the theme will be `rmdformats::downcute:`
+
 [dstoolbox](https://wq1701.github.io/dstoolbox/)
 
 - [Data Science Pub](#ds-pub)
@@ -7,7 +13,9 @@ Public Hosting for demo files and shared materials.
   	- [data wrangling](#data-wrangling)
   	- [python coding](#python-coding)
   	- [data visualization WIP](#data-viz)
-  	- [preprocessing WIP](#preproc)
+  	- [preprocessing WIP](#pre-proc)
+  	- [kaggle FTR](#kaggle)
+  	- [product data science FTR](#prod-ds)
 
 
 # Data Science Pub
@@ -43,10 +51,6 @@ Public Hosting for demo files and shared materials.
 
 ## preprocessing WIP
 
+## kaggle FTR
 
-
-**total unrelated notes**
-
-If the content is about R written in `Rmarkdown`, then I will use theme `rmdformats::readthedown:`
-
-If it is about Python but rendered in `Rmarkdown`, then the theme will be `rmdformats::downcute:`
+## product data science FTR
