@@ -200,7 +200,6 @@
     <h2><a href="#content">Python pitfalls (written in RStudio)</a></h2>
     <div id="toc">
       <ul>
-      <li><a href="#run-python-in-rstudio">run python in RStudio</a></li>
       <li><a href="#pitfall-1-i-am-trying-to-append-but">pitfall 1: I am trying to append, but</a></li>
       <li><a href="#pitfall-2-do-not-modify-the-iterable-obj-in-loops">pitfall 2: (do not) modify the iterable obj in loops</a></li>
       <li><a href="#pifall-3-the-ignored-comma">pifall 3: the ignored comma</a></li>
@@ -220,13 +219,11 @@
    
 <!-- Don't indent these lines or it will mess pre blocks indentation --> 
 <div id="main">
-<div id="run-python-in-rstudio" class="section level1">
-<h1>run python in RStudio</h1>
+<p>run python in RStudio</p>
 <p>package required:</p>
 <p><code>reticulate</code></p>
 <div class="sourceCode" id="cb1"><pre class="sourceCode r"><code class="sourceCode r"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a>reticulate<span class="sc">::</span><span class="fu">py_config</span>()<span class="sc">$</span>version_string</span></code></pre></div>
 <pre><code>## [1] &quot;3.8.8 (default, Apr 13 2021, 15:08:03) [MSC v.1916 64 bit (AMD64)]&quot;</code></pre>
-</div>
 <div id="pitfall-1-i-am-trying-to-append-but" class="section level1">
 <h1>pitfall 1: I am trying to append, but</h1>
 <div class="sourceCode" id="cb3"><pre class="sourceCode python"><code class="sourceCode python"><span id="cb3-1"><a href="#cb3-1" aria-hidden="true" tabindex="-1"></a>case1 <span class="op">=</span> [<span class="dv">5</span>, <span class="dv">4</span>, <span class="dv">3</span>, <span class="dv">2</span>]</span>
