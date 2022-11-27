@@ -40,7 +40,10 @@ Public Hosting for demo files and shared materials.
 
 ## preprocessing WIP
 
-**some notes**
+
+
+**total unrelated notes**
 
 If the content is about R written in `Rmarkdown`, then I will use theme `rmdformats::readthedown:`
+
 If it is about Python but rendered in `Rmarkdown`, then the theme will be `rmdformats::downcute:`
