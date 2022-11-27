@@ -206,11 +206,11 @@
       <li><a href="#fun-2-animals">fun # 2: animals</a></li>
       <li><a href="#fun-3-arguments">fun # 3: arguments</a></li>
       <li><a href="#fun-4-list-dict">fun # 4: list &amp; dict</a></li>
-      <li><a href="#fun-5">fun 5</a></li>
-      <li><a href="#fun-6">fun 6</a></li>
-      <li><a href="#fun-7">fun 7</a></li>
-      <li><a href="#fun-7.1">fun 7.1</a></li>
-      <li><a href="#fun-7.2">fun 7.2</a></li>
+      <li><a href="#fun-5-parallel-list-comp">fun # 5 parallel list comp</a></li>
+      <li><a href="#fun-6-mirror-append">fun # 6 “mirror” append</a></li>
+      <li><a href="#fun-7-adding-tuples">fun # 7 adding tuples</a></li>
+      <li><a href="#fun-7.1">fun # 7.1</a></li>
+      <li><a href="#fun-7.2">fun # 7.2</a></li>
       </ul></li>
       </ul>
     </div>
@@ -300,8 +300,8 @@
 <li>E: Error</li>
 </ul>
 </div>
-<div id="fun-5" class="section level2">
-<h2>fun 5</h2>
+<div id="fun-5-parallel-list-comp" class="section level2">
+<h2>fun # 5 parallel list comp</h2>
 <div class="sourceCode" id="cb7"><pre class="sourceCode python"><code class="sourceCode python"><span id="cb7-1"><a href="#cb7-1" aria-hidden="true" tabindex="-1"></a>result_list <span class="op">=</span> [x <span class="op">+</span> y <span class="cf">for</span> x <span class="kw">in</span> [<span class="st">&#39;A&#39;</span>,<span class="st">&#39;B&#39;</span>] <span class="cf">for</span> y <span class="kw">in</span> [<span class="st">&#39;C&#39;</span>, <span class="st">&#39;D&#39;</span>]]</span>
 <span id="cb7-2"><a href="#cb7-2" aria-hidden="true" tabindex="-1"></a></span>
 <span id="cb7-3"><a href="#cb7-3" aria-hidden="true" tabindex="-1"></a><span class="bu">print</span>(result_list)</span></code></pre></div>
@@ -313,8 +313,8 @@
 <li>E: [‘AD’, ‘BC’, ‘AC’, ‘BD’]</li>
 </ul>
 </div>
-<div id="fun-6" class="section level2">
-<h2>fun 6</h2>
+<div id="fun-6-mirror-append" class="section level2">
+<h2>fun # 6 “mirror” append</h2>
 <div class="sourceCode" id="cb8"><pre class="sourceCode python"><code class="sourceCode python"><span id="cb8-1"><a href="#cb8-1" aria-hidden="true" tabindex="-1"></a>a <span class="op">=</span> <span class="bu">list</span>()</span>
 <span id="cb8-2"><a href="#cb8-2" aria-hidden="true" tabindex="-1"></a>a.append(a)</span>
 <span id="cb8-3"><a href="#cb8-3" aria-hidden="true" tabindex="-1"></a><span class="bu">print</span>(a)</span></code></pre></div>
@@ -325,8 +325,8 @@
 <li>D: Error</li>
 </ul>
 </div>
-<div id="fun-7" class="section level2">
-<h2>fun 7</h2>
+<div id="fun-7-adding-tuples" class="section level2">
+<h2>fun # 7 adding tuples</h2>
 <div class="sourceCode" id="cb9"><pre class="sourceCode python"><code class="sourceCode python"><span id="cb9-1"><a href="#cb9-1" aria-hidden="true" tabindex="-1"></a>a <span class="op">=</span> (<span class="dv">1</span>, <span class="dv">2</span>)</span>
 <span id="cb9-2"><a href="#cb9-2" aria-hidden="true" tabindex="-1"></a>b <span class="op">=</span> (<span class="dv">3</span>, <span class="dv">4</span>)</span>
 <span id="cb9-3"><a href="#cb9-3" aria-hidden="true" tabindex="-1"></a>c <span class="op">=</span> a<span class="op">+</span>b</span>
@@ -339,14 +339,14 @@
 </ul>
 </div>
 <div id="fun-7.1" class="section level2">
-<h2>fun 7.1</h2>
+<h2>fun # 7.1</h2>
 <div class="sourceCode" id="cb10"><pre class="sourceCode python"><code class="sourceCode python"><span id="cb10-1"><a href="#cb10-1" aria-hidden="true" tabindex="-1"></a>a <span class="op">=</span> [<span class="dv">1</span>, <span class="dv">2</span>]</span>
 <span id="cb10-2"><a href="#cb10-2" aria-hidden="true" tabindex="-1"></a>b <span class="op">=</span> [<span class="dv">3</span>, <span class="dv">4</span>]</span>
 <span id="cb10-3"><a href="#cb10-3" aria-hidden="true" tabindex="-1"></a>c <span class="op">=</span> a<span class="op">+</span>b</span>
 <span id="cb10-4"><a href="#cb10-4" aria-hidden="true" tabindex="-1"></a><span class="bu">print</span>(c)</span></code></pre></div>
 </div>
 <div id="fun-7.2" class="section level2">
-<h2>fun 7.2</h2>
+<h2>fun # 7.2</h2>
 <div class="sourceCode" id="cb11"><pre class="sourceCode python"><code class="sourceCode python"><span id="cb11-1"><a href="#cb11-1" aria-hidden="true" tabindex="-1"></a>a <span class="op">=</span> [[<span class="dv">1</span>, <span class="dv">2</span>]]</span>
 <span id="cb11-2"><a href="#cb11-2" aria-hidden="true" tabindex="-1"></a>b <span class="op">=</span> [[<span class="dv">3</span>, <span class="dv">4</span>]]</span>
 <span id="cb11-3"><a href="#cb11-3" aria-hidden="true" tabindex="-1"></a>c <span class="op">=</span> a<span class="op">+</span>b</span>
