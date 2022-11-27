@@ -224,16 +224,8 @@
 <h1>run python in RStudio</h1>
 <p>package required:</p>
 <p><code>reticulate</code></p>
-<div class="sourceCode" id="cb1"><pre class="sourceCode r"><code class="sourceCode r"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a>reticulate<span class="sc">::</span><span class="fu">py_config</span>()</span></code></pre></div>
-<pre><code>## python:         C:/Users/qww98/anaconda3/python.exe
-## libpython:      C:/Users/qww98/anaconda3/python38.dll
-## pythonhome:     C:/Users/qww98/anaconda3
-## version:        3.8.8 (default, Apr 13 2021, 15:08:03) [MSC v.1916 64 bit (AMD64)]
-## Architecture:   64bit
-## numpy:          C:/Users/qww98/anaconda3/Lib/site-packages/numpy
-## numpy_version:  1.20.1
-## 
-## NOTE: Python version was forced by RETICULATE_PYTHON</code></pre>
+<div class="sourceCode" id="cb1"><pre class="sourceCode r"><code class="sourceCode r"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a>reticulate<span class="sc">::</span><span class="fu">py_config</span>()<span class="sc">$</span>version_string</span></code></pre></div>
+<pre><code>## [1] &quot;3.8.8 (default, Apr 13 2021, 15:08:03) [MSC v.1916 64 bit (AMD64)]&quot;</code></pre>
 </div>
 <div id="pitfall-1-i-am-trying-to-append-but" class="section level1">
 <h1>pitfall 1: I am trying to append, but</h1>
@@ -362,6 +354,8 @@
 <span id="cb39-3"><a href="#cb39-3" aria-hidden="true" tabindex="-1"></a>x, y <span class="op">=</span> (<span class="dv">10</span>, <span class="dv">10</span>) <span class="cf">if</span> flag <span class="cf">else</span> (<span class="va">None</span>, <span class="va">None</span>)</span>
 <span id="cb39-4"><a href="#cb39-4" aria-hidden="true" tabindex="-1"></a><span class="bu">print</span>(x, y)</span></code></pre></div>
 <pre><code>## 10 10</code></pre>
+<p>Follow-up:</p>
+<p><a href="https://wq1701.github.io/dspub/python_coding/py_guess.html" class="uri">https://wq1701.github.io/dspub/python_coding/py_guess.html</a></p>
 </div>
 </div>
 
