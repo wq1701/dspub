@@ -12,10 +12,10 @@ If it is about Python but rendered in `Rmarkdown`, then the theme will be `rmdfo
   - [Documentation Listings](#documentation-listings)
   	- [data wrangling](#data-wrangling)
   	- [python coding](#python-coding)
-  	- [data visualization WIP](#data-viz)
-  	- [preprocessing WIP](#pre-proc)
-  	- [kaggle FTR](#kaggle)
-  	- [product data science FTR](#prod-ds)
+  	- [data visualization WIP](#data-visualization-wip)
+  	- [preprocessing WIP](#preprocessing-wip)
+  	- [kaggle FTR](#kaggle-ftr)
+  	- [prod data science FTR](#prod-data-science-ftr)
 
 
 # Data Science Pub
