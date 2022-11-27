@@ -132,6 +132,7 @@
             <li><a href="#fun-7-adding-tuples">fun # 7 adding tuples</a></li>
             <li><a href="#fun-7.1">fun # 7.1</a></li>
             <li><a href="#fun-7.2">fun # 7.2</a></li>
+            <li><a href="#fun-7.3">fun # 7.3</a></li>
             </ul></li>
             </ul>
           </div>
@@ -288,6 +289,32 @@ print(c)</code></pre>
 b = [[3, 4]]
 c = a+b
 print(c)</code></pre>
+</div>
+<div id="fun-7.3" class="section level2">
+<h2>fun # 7.3</h2>
+<p>now, what if I want to have element-wise operations?</p>
+<ul>
+<li>numpy built-in vector manipulation</li>
+</ul>
+<pre class="python"><code>import numpy as np
+
+x = np.array([1,2,3])
+y = np.array([2,3,4])
+print(x+y)</code></pre>
+<ul>
+<li>Lambda</li>
+</ul>
+<pre class="python"><code>list1=[1, 2, 3]
+list2=[4, 5, 6]
+print(map(lambda x,y:x+y, list1, list2))
+
+list(map(lambda x,y:x+y, list1, list2))</code></pre>
+<ul>
+<li>zip and list comprehension</li>
+</ul>
+<pre class="python"><code>list1=[1, 2, 3]
+list2=[4, 5, 6]
+print([x + y for x, y in zip(list1, list2)])</code></pre>
 </div>
 </div>
 </div>

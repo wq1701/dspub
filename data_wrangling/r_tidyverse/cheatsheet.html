@@ -231,13 +231,13 @@
 <span id="cb1-7"><a href="#cb1-7" aria-hidden="true" tabindex="-1"></a></span>
 <span id="cb1-8"><a href="#cb1-8" aria-hidden="true" tabindex="-1"></a><span class="fu">head</span>(df) <span class="co"># df.head() in python / or use view(df) in r</span></span></code></pre></div>
 <pre><code>## # A tibble: 5 x 7
-##   date       A.mean A.median A.min B.mean B.median B.min
-##   &lt;date&gt;      &lt;dbl&gt;    &lt;dbl&gt; &lt;dbl&gt;  &lt;dbl&gt;    &lt;dbl&gt; &lt;dbl&gt;
-## 1 2020-01-01  45.8     43.3  47.7    28.4     11.9  5.03
-## 2 2020-01-02  47.5      4.80 36.1    37.9     48.6 31.5 
-## 3 2020-01-03  49.3     10.8  23.4    43.1     16.9 28.3 
-## 4 2020-01-04  37.1     12.8   8.77   16.8     25.4  6.43
-## 5 2020-01-05   1.12    37.3   7.93   16.1     48.0 31.6</code></pre>
+##   date       A.mean A.median   A.min B.mean B.median B.min
+##   &lt;date&gt;      &lt;dbl&gt;    &lt;dbl&gt;   &lt;dbl&gt;  &lt;dbl&gt;    &lt;dbl&gt; &lt;dbl&gt;
+## 1 2020-01-01   3.18     6.38  0.0139  34.0      30.4  1.96
+## 2 2020-01-02  43.2     43.4  40.5      8.01     47.3 19.3 
+## 3 2020-01-03  37.2     10.0   9.41    33.2      13.3 20.9 
+## 4 2020-01-04  32.3     35.5  44.6     12.9      40.8 36.5 
+## 5 2020-01-05  39.8     13.5  13.9     45.0      29.3 48.5</code></pre>
 <div class="sourceCode" id="cb3"><pre class="sourceCode r"><code class="sourceCode r"><span id="cb3-1"><a href="#cb3-1" aria-hidden="true" tabindex="-1"></a>temp <span class="ot">&lt;-</span> <span class="fu">pivot_longer</span>(df, <span class="sc">-</span>date, <span class="at">names_sep =</span> <span class="st">&quot;</span><span class="sc">\\</span><span class="st">.&quot;</span>, <span class="at">names_to =</span> <span class="fu">c</span>(<span class="st">&quot;k&quot;</span>, <span class="st">&quot;stat&quot;</span>))</span>
 <span id="cb3-2"><a href="#cb3-2" aria-hidden="true" tabindex="-1"></a></span>
 <span id="cb3-3"><a href="#cb3-3" aria-hidden="true" tabindex="-1"></a>answer <span class="ot">&lt;-</span> <span class="fu">pivot_wider</span>(temp, <span class="at">id_cols =</span> <span class="fu">c</span>(<span class="st">&quot;date&quot;</span>, <span class="st">&quot;k&quot;</span>), <span class="at">names_from =</span> <span class="st">&quot;stat&quot;</span>, <span class="at">values_from =</span> <span class="st">&quot;value&quot;</span>)</span>
@@ -246,18 +246,18 @@
 <span id="cb3-6"><a href="#cb3-6" aria-hidden="true" tabindex="-1"></a>  <span class="fu">pivot_longer</span>(<span class="sc">-</span>date, <span class="at">names_sep =</span> <span class="st">&quot;</span><span class="sc">\\</span><span class="st">.&quot;</span>, <span class="at">names_to =</span> <span class="fu">c</span>(<span class="st">&quot;k&quot;</span>, <span class="st">&quot;stat&quot;</span>)) <span class="sc">%&gt;%</span> </span>
 <span id="cb3-7"><a href="#cb3-7" aria-hidden="true" tabindex="-1"></a>  <span class="fu">pivot_wider</span>(<span class="at">id_cols =</span> <span class="fu">c</span>(<span class="st">&quot;date&quot;</span>, <span class="st">&quot;k&quot;</span>), <span class="at">names_from =</span> <span class="st">&quot;stat&quot;</span>, <span class="at">values_from =</span> <span class="st">&quot;value&quot;</span>)</span></code></pre></div>
 <pre><code>## # A tibble: 10 x 5
-##    date       k      mean median   min
-##    &lt;date&gt;     &lt;chr&gt; &lt;dbl&gt;  &lt;dbl&gt; &lt;dbl&gt;
-##  1 2020-01-01 A     45.8   43.3  47.7 
-##  2 2020-01-01 B     28.4   11.9   5.03
-##  3 2020-01-02 A     47.5    4.80 36.1 
-##  4 2020-01-02 B     37.9   48.6  31.5 
-##  5 2020-01-03 A     49.3   10.8  23.4 
-##  6 2020-01-03 B     43.1   16.9  28.3 
-##  7 2020-01-04 A     37.1   12.8   8.77
-##  8 2020-01-04 B     16.8   25.4   6.43
-##  9 2020-01-05 A      1.12  37.3   7.93
-## 10 2020-01-05 B     16.1   48.0  31.6</code></pre>
+##    date       k      mean median     min
+##    &lt;date&gt;     &lt;chr&gt; &lt;dbl&gt;  &lt;dbl&gt;   &lt;dbl&gt;
+##  1 2020-01-01 A      3.18   6.38  0.0139
+##  2 2020-01-01 B     34.0   30.4   1.96  
+##  3 2020-01-02 A     43.2   43.4  40.5   
+##  4 2020-01-02 B      8.01  47.3  19.3   
+##  5 2020-01-03 A     37.2   10.0   9.41  
+##  6 2020-01-03 B     33.2   13.3  20.9   
+##  7 2020-01-04 A     32.3   35.5  44.6   
+##  8 2020-01-04 B     12.9   40.8  36.5   
+##  9 2020-01-05 A     39.8   13.5  13.9   
+## 10 2020-01-05 B     45.0   29.3  48.5</code></pre>
 </div>
 <div id="mutate" class="section level1">
 <h1>Mutate</h1>
