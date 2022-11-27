@@ -21,10 +21,8 @@ Public Hosting for demo files and shared materials.
 
 - Things you might forget about R (tidyverse) [to be continued]
 	- View [[R Markdown](https://wq1701.github.io/dspub/data_wrangling/r_tidyverse/cheatsheet.html)]
-
 - Translate SQL to Python (Pandas)
 	- View [[Jupyter Notebook](https://nbviewer.org/github/wq1701/dspub/blob/main/data_wrangling/python/py2sql.ipynb)]
-
 - Regex 101
 	- View [[Jupyter Notebook](https://nbviewer.org/github/wq1701/dspub/blob/main/data_wrangling/python/regex_101.ipynb)]
 
