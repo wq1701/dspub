@@ -38,6 +38,9 @@ Public Hosting for demo files and shared materials.
 
 ## data visualization WIP
 
+- R Visualization
+	- [[R Markdown](https://wq1701.github.io/dspub/data_viz/rplots/rviz.html)]
+
 ## preprocessing WIP
 
 
