@@ -6,7 +6,7 @@ If the content is about R written in `Rmarkdown`, then I will use theme `rmdform
 
 If it is about Python but rendered in `Rmarkdown`, then the theme will be `rmdformats::downcute:`
 
-[[dstoolbox](https://wq1701.github.io/dstoolbox/)] | [[dspub](https://wq1701.github.io/dspub/)]
+[dstoolbox](https://wq1701.github.io/dstoolbox/) | [dspub](https://wq1701.github.io/dspub/)
 
 
 
