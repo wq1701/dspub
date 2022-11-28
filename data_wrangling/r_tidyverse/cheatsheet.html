@@ -234,6 +234,24 @@
 <div id="main">
 <p><strong>Totally unrelated notes</strong></p>
 <p>I do forget a lot. One is not batman.</p>
+<style type="text/css">
+.spoiler {
+  visibility: hidden;
+}
+
+.spoiler::before {
+  visibility: visible;
+  content: "###########DO NOT HOVER###########"
+}
+
+.spoiler:hover {
+  visibility: visible;
+}
+
+.spoiler:hover::before {
+  display: none;
+}
+</style>
 <div id="pivot" class="section level1">
 <h1>pivot</h1>
 <p>Pivot data longer while re-coding some similar column names into the same one</p>
@@ -262,48 +280,48 @@
 <tbody>
 <tr class="odd">
 <td align="left">2020-01-01</td>
-<td align="right">10.937664</td>
-<td align="right">32.069755</td>
-<td align="right">16.42933</td>
-<td align="right">4.670891</td>
-<td align="right">43.457028</td>
-<td align="right">7.820113</td>
+<td align="right">48.732622</td>
+<td align="right">42.63542</td>
+<td align="right">48.28532</td>
+<td align="right">26.983021</td>
+<td align="right">3.189964</td>
+<td align="right">3.841179</td>
 </tr>
 <tr class="even">
 <td align="left">2020-01-02</td>
-<td align="right">33.981398</td>
-<td align="right">47.452223</td>
-<td align="right">12.21408</td>
-<td align="right">5.606596</td>
-<td align="right">11.312213</td>
-<td align="right">45.873099</td>
+<td align="right">1.283834</td>
+<td align="right">46.04468</td>
+<td align="right">42.86398</td>
+<td align="right">45.522767</td>
+<td align="right">49.894911</td>
+<td align="right">38.187536</td>
 </tr>
 <tr class="odd">
 <td align="left">2020-01-03</td>
-<td align="right">3.298052</td>
-<td align="right">3.797259</td>
-<td align="right">49.22458</td>
-<td align="right">14.230327</td>
-<td align="right">3.966892</td>
-<td align="right">41.914448</td>
+<td align="right">6.784811</td>
+<td align="right">9.45290</td>
+<td align="right">30.71775</td>
+<td align="right">47.538903</td>
+<td align="right">49.314453</td>
+<td align="right">1.333299</td>
 </tr>
 <tr class="even">
 <td align="left">2020-01-04</td>
-<td align="right">30.319849</td>
-<td align="right">25.307408</td>
-<td align="right">29.46801</td>
-<td align="right">6.221723</td>
-<td align="right">12.646064</td>
-<td align="right">49.873096</td>
+<td align="right">32.269100</td>
+<td align="right">27.61920</td>
+<td align="right">14.12190</td>
+<td align="right">24.186885</td>
+<td align="right">48.072475</td>
+<td align="right">43.217502</td>
 </tr>
 <tr class="odd">
 <td align="left">2020-01-05</td>
-<td align="right">11.146868</td>
-<td align="right">7.150891</td>
-<td align="right">15.28859</td>
-<td align="right">29.726463</td>
-<td align="right">40.045503</td>
-<td align="right">17.763625</td>
+<td align="right">32.884956</td>
+<td align="right">24.21991</td>
+<td align="right">21.60856</td>
+<td align="right">3.824533</td>
+<td align="right">36.382598</td>
+<td align="right">26.704129</td>
 </tr>
 </tbody>
 </table>
@@ -329,72 +347,72 @@
 <tr class="odd">
 <td align="left">2020-01-01</td>
 <td align="left">A</td>
-<td align="right">10.937664</td>
-<td align="right">32.069755</td>
-<td align="right">16.429331</td>
+<td align="right">48.732622</td>
+<td align="right">42.635422</td>
+<td align="right">48.285325</td>
 </tr>
 <tr class="even">
 <td align="left">2020-01-01</td>
 <td align="left">B</td>
-<td align="right">4.670891</td>
-<td align="right">43.457028</td>
-<td align="right">7.820113</td>
+<td align="right">26.983021</td>
+<td align="right">3.189964</td>
+<td align="right">3.841179</td>
 </tr>
 <tr class="odd">
 <td align="left">2020-01-02</td>
 <td align="left">A</td>
-<td align="right">33.981398</td>
-<td align="right">47.452223</td>
-<td align="right">12.214082</td>
+<td align="right">1.283834</td>
+<td align="right">46.044676</td>
+<td align="right">42.863984</td>
 </tr>
 <tr class="even">
 <td align="left">2020-01-02</td>
 <td align="left">B</td>
-<td align="right">5.606596</td>
-<td align="right">11.312213</td>
-<td align="right">45.873099</td>
+<td align="right">45.522767</td>
+<td align="right">49.894911</td>
+<td align="right">38.187536</td>
 </tr>
 <tr class="odd">
 <td align="left">2020-01-03</td>
 <td align="left">A</td>
-<td align="right">3.298052</td>
-<td align="right">3.797259</td>
-<td align="right">49.224582</td>
+<td align="right">6.784811</td>
+<td align="right">9.452900</td>
+<td align="right">30.717747</td>
 </tr>
 <tr class="even">
 <td align="left">2020-01-03</td>
 <td align="left">B</td>
-<td align="right">14.230327</td>
-<td align="right">3.966892</td>
-<td align="right">41.914448</td>
+<td align="right">47.538903</td>
+<td align="right">49.314453</td>
+<td align="right">1.333299</td>
 </tr>
 <tr class="odd">
 <td align="left">2020-01-04</td>
 <td align="left">A</td>
-<td align="right">30.319849</td>
-<td align="right">25.307408</td>
-<td align="right">29.468013</td>
+<td align="right">32.269100</td>
+<td align="right">27.619201</td>
+<td align="right">14.121901</td>
 </tr>
 <tr class="even">
 <td align="left">2020-01-04</td>
 <td align="left">B</td>
-<td align="right">6.221723</td>
-<td align="right">12.646064</td>
-<td align="right">49.873096</td>
+<td align="right">24.186885</td>
+<td align="right">48.072475</td>
+<td align="right">43.217502</td>
 </tr>
 <tr class="odd">
 <td align="left">2020-01-05</td>
 <td align="left">A</td>
-<td align="right">11.146868</td>
-<td align="right">7.150891</td>
-<td align="right">15.288585</td>
+<td align="right">32.884956</td>
+<td align="right">24.219914</td>
+<td align="right">21.608557</td>
 </tr>
 <tr class="even">
 <td align="left">2020-01-05</td>
 <td align="left">B</td>
-<td align="right">29.726463</td>
-<td align="right">40.045503</td>
-<td align="right">17.763625</td>
+<td align="right">3.824533</td>
+<td align="right">36.382598</td>
+<td align="right">26.704129</td>
 </tr>
 </tbody>
 </table>

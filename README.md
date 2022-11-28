@@ -29,12 +29,8 @@ If it is about Python but rendered in `Rmarkdown`, then the theme will be `rmdfo
 
 ## data wrangling
 
-<details>
-<summary>a totally unrelated note, do not click</summary>
-<pre>
-In terms of data cleaning and visualization, R is better than Python. Bite me
-</pre>
-</details>
+
+[do not hover](a "In terms of data cleaning and visualization, R is better than Python. Bite me.")
 
 
 - Things you might forget about R (tidyverse) [to be continued]
