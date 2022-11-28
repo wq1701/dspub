@@ -18,6 +18,7 @@ If it is about Python but rendered in `Rmarkdown`, then the theme will be `rmdfo
   	- [preprocessing WIP](#preprocessing-wip)
   	- [kaggle FTR](#kaggle-ftr)
   	- [prod data science FTR](#prod-data-science-ftr)
+  	- [reading](#reading)
 
 
 # Data Science Pub
@@ -56,3 +57,9 @@ If it is about Python but rendered in `Rmarkdown`, then the theme will be `rmdfo
 ## kaggle FTR
 
 ## product data science FTR
+
+## reading
+
+- Python books
+- Kaggle notebooks
+- Open src lessons
