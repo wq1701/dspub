@@ -61,5 +61,7 @@ If it is about Python but rendered in `Rmarkdown`, then the theme will be `rmdfo
 ## reading
 
 - Python books
+	- [[Markdown](https://wq1701.github.io/dspub/reading/freebooks.md)]
 - Kaggle notebooks
+	- [[Markdown](https://wq1701.github.io/dspub/reading/kaggle-notebooks.md)]
 - Open src lessons
