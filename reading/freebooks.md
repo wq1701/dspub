@@ -1,4 +1,4 @@
-**Totally unrelatted notes**
+**Totally unrelated notes**
 
 If the content below is no longer open or free, please let me know. 
 
