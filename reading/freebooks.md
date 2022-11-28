@@ -1,3 +1,13 @@
+---
+title: "Some FREE Books!!"
+author: "Weiwei QI"
+date: "2022"
+output:
+  rmdformats::readthedown:
+    highlight: pygments
+    code_folding: show
+---
+
 **Totally unrelated notes**
 
 If the content below is no longer open or free, please let me know. 

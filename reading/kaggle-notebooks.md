@@ -1,3 +1,13 @@
+---
+title: "Have some Kaggle?"
+author: "Weiwei QI"
+date: "2022"
+output:
+  rmdformats::readthedown:
+    highlight: pygments
+    code_folding: show
+---
+
 # Kaggle notebooks for beginners
 
 [Data ScienceTutorial for Beginners](https://www.kaggle.com/code/kanncaa1/data-sciencetutorial-for-beginners)
