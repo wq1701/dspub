@@ -30,6 +30,10 @@ If it is about Python but rendered in `Rmarkdown`, then the theme will be `rmdfo
 
 ## data wrangling
 
+**totally unrelated notes**
+
+<p class="spoiler">In terms of data cleaning and visualization, R is better than Python. Bite me. </p>
+
 - Things you might forget about R (tidyverse) [to be continued]
 	- View [[R Markdown](https://wq1701.github.io/dspub/data_wrangling/r_tidyverse/cheatsheet.html)]
 - Translate SQL to Python (Pandas)
