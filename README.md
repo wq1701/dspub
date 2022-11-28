@@ -40,6 +40,12 @@ If it is about Python but rendered in `Rmarkdown`, then the theme will be `rmdfo
 
 ## python coding
 
+[The Zen of Python](https://peps.python.org/pep-0020/)
+
+```python
+import this
+```
+
 - Efficient Python
 	- [[R Markdown site](https://wq1701.github.io/dspub/python_coding/py_effici.html)]
 - Python pitfalls
