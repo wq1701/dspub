@@ -10,15 +10,14 @@ If it is about Python but rendered in `Rmarkdown`, then the theme will be `rmdfo
 
 
 
-- [Data Science Pub](#ds-pub)
-  - [Documentation Listings](#documentation-listings)
-  	- [data wrangling](#data-wrangling)
-  	- [python coding](#python-coding)
-  	- [data visualization WIP](#data-visualization-wip)
-  	- [preprocessing WIP](#preprocessing-wip)
-  	- [kaggle FTR](#kaggle-ftr)
-  	- [prod data science FTR](#prod-data-science-ftr)
-  	- [reading](#reading)
+- [Data Science Pub](#data-science-pub)
+	- [data wrangling](#data-wrangling)
+	- [python coding](#python-coding)
+	- [data visualization WIP](#data-visualization-wip)
+	- [preprocessing WIP](#preprocessing-wip)
+	- [kaggle FTR](#kaggle-ftr)
+	- [product data science FTR](#product-data-science-ftr)
+	- [reading](#reading)
 
 
 # Data Science Pub
@@ -30,7 +29,13 @@ If it is about Python but rendered in `Rmarkdown`, then the theme will be `rmdfo
 
 ## data wrangling
 
-[**totally unrelated notes**]("In terms of data cleaning and visualization, R is better than Python. Bite me")
+<details>
+<summary>a totally unrelated note, do not click</summary>
+<pre>
+In terms of data cleaning and visualization, R is better than Python. Bite me
+</pre>
+</details>
+
 
 - Things you might forget about R (tidyverse) [to be continued]
 	- View [[R Markdown](https://wq1701.github.io/dspub/data_wrangling/r_tidyverse/cheatsheet.html)]
