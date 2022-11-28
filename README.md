@@ -43,7 +43,7 @@ If it is about Python but rendered in `Rmarkdown`, then the theme will be `rmdfo
 [The Zen of Python](https://peps.python.org/pep-0020/)
 
 ```python
-import this
+>>> import this
 ```
 
 - Efficient Python
