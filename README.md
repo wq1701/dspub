@@ -60,6 +60,8 @@ If it is about Python but rendered in `Rmarkdown`, then the theme will be `rmdfo
 
 ## reading
 
+**“Open source is about collaborating; not competing.”**
+
 - Python books
 	- [[Markdown](https://wq1701.github.io/dspub/reading/freebooks.md)]
 - Kaggle notebooks
