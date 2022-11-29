@@ -53,7 +53,7 @@ If it is about Python but rendered in `Rmarkdown`, then the theme will be `rmdfo
 
 - Efficient Python
 	- [[R Markdown site](https://wq1701.github.io/dspub/python_coding/py_effici.html)]
-- Python pitfalls
+- Python traps
 	- [[R Markdown site](https://wq1701.github.io/dspub/python_coding/py_traps.html)]
 - Python quiz
 	- [[R Markdown site](https://wq1701.github.io/dspub/python_coding/py_guess.html)]
