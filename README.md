@@ -1,10 +1,14 @@
 Public Hosting for demo files and shared materials.
 
+<details markdown="1">
+<summary>
 **totally unrelated notes**
+</summary>
 
 If the content is about R written in `Rmarkdown`, then I will use theme `rmdformats::readthedown:`
 
 If it is about Python but rendered in `Rmarkdown`, then the theme will be `rmdformats::downcute:`
+</details>
 
 [dstoolbox](https://wq1701.github.io/dstoolbox/) | [dspub](https://wq1701.github.io/dspub/) | [repo](https://github.com/wq1701/dspub)
 
