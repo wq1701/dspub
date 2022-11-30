@@ -4,18 +4,20 @@
 
 <!-- [dstoolbox](https://wq1701.github.io/dstoolbox/) | [dspub](https://wq1701.github.io/dspub/) | [repo](https://github.com/wq1701/dspub) -->
 
-<h2 align="center">Data Science Pub</h2>
 
-<p align="center">
-    Public Hosting for demo files and shared materials.
-    <br />
-    <a href="https://wq1701.github.io/dstoolbox/">dstoolbox</a>
-    ·
-    <a href="https://wq1701.github.io/dspub/">dspub</a>
-    ·
-    <a href="https://github.com/wq1701/dspub">repo</a>
-</p>
+<div align="center">
+  <h2 align="center">Data Science Pub</h2>
 
+  <p align="center">
+  	Public Hosting for demo files and shared materials.
+  	<br />
+  	<a href="https://wq1701.github.io/dstoolbox/">dstoolbox</a>
+  	·
+  	<a href="https://wq1701.github.io/dspub/">dspub</a>
+  	·
+  	<a href="https://github.com/wq1701/dspub">repo</a>
+  </p>
+</div>
 
 - [Data Science Pub](#data-science-pub)
 	- [data wrangling](#data-wrangling)
