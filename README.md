@@ -42,7 +42,7 @@ Public Hosting for demo files and shared materials.
 
 - Things you might forget about R (tidyverse) [to be continued]
 	<!-- - View [[R Markdown](https://wq1701.github.io/dspub/data_wrangling/r_tidyverse/cheatsheet.html)] -->
-	- <a href="https://wq1701.github.io/dspub/data_wrangling/r_tidyverse/cheatsheet.html"><img src="https://img.shields.io/badge/RMarkdown-HTML-blue.svg" alt="RMD html"/></a>
+	- <a href="https://wq1701.github.io/dspub/data_wrangling/r_tidyverse/cheatsheet.html"><img src="https://img.shields.io/badge/RMarkdown-HTML-%2375AADB?logo=Rstudio" alt="RMD html"/></a>
 - Translate SQL to Python (Pandas)
 	<!-- - Run [[Google Colab](https://colab.research.google.com/github/wq1701/dspub/blob/main/data_wrangling/python/py2sql.ipynb)] \| View [[Jupyter Notebook](https://nbviewer.org/github/wq1701/dspub/blob/main/data_wrangling/python/py2sql.ipynb)] -->
 	- <a href="https://colab.research.google.com/github/wq1701/dspub/blob/main/data_wrangling/python/py2sql.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
@@ -62,13 +62,13 @@ Public Hosting for demo files and shared materials.
 
 - Efficient Python
 	<!-- - [[R Markdown site](https://wq1701.github.io/dspub/python_coding/py_effici.html)] -->
-	- <a href="https://wq1701.github.io/dspub/data_wrangling/r_tidyverse/cheatsheet.html"><img src="https://img.shields.io/badge/RMarkdown-HTML-blue.svg" alt="RMD html"/></a>
+	- <a href="https://wq1701.github.io/dspub/data_wrangling/r_tidyverse/cheatsheet.html"><img src="https://img.shields.io/badge/RMarkdown-HTML-%2375AADB?logo=python" alt="RMD html"/></a>
 - Python traps
 	<!-- - [[R Markdown site](https://wq1701.github.io/dspub/python_coding/py_traps.html)] -->
-	- <a href="https://wq1701.github.io/dspub/data_wrangling/r_tidyverse/cheatsheet.html"><img src="https://img.shields.io/badge/RMarkdown-HTML-blue.svg" alt="RMD html"/></a>
+	- <a href="https://wq1701.github.io/dspub/data_wrangling/r_tidyverse/cheatsheet.html"><img src="https://img.shields.io/badge/RMarkdown-HTML-%2375AADB?logo=python" alt="RMD html"/></a>
 - Python quiz
 	<!-- - [[R Markdown site](https://wq1701.github.io/dspub/python_coding/py_guess.html)] -->
-	- <a href="https://wq1701.github.io/dspub/data_wrangling/r_tidyverse/cheatsheet.html"><img src="https://img.shields.io/badge/RMarkdown-HTML-blue.svg" alt="RMD html"/></a>
+	- <a href="https://wq1701.github.io/dspub/data_wrangling/r_tidyverse/cheatsheet.html"><img src="https://img.shields.io/badge/RMarkdown-HTML-%2375AADB?logo=python" alt="RMD html"/></a>
 
 ## data visualization WIP
 
