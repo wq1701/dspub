@@ -14,7 +14,7 @@ If it is about Python but rendered in `Rmarkdown`, then the theme will be `rmdfo
 	- [data wrangling](#data-wrangling)
 	- [python coding](#python-coding)
 	- [data visualization WIP](#data-visualization-wip)
-	- [preprocessing WIP](#preprocessing-wip)
+	- [modeling](#modeling)
 	- [kaggle FTR](#kaggle-ftr)
 	- [product data science FTR](#product-data-science-ftr)
 	- [reading](#reading)
@@ -61,7 +61,7 @@ If it is about Python but rendered in `Rmarkdown`, then the theme will be `rmdfo
 - R Visualization
 	- [[R Markdown](https://wq1701.github.io/dspub/data_viz/rplots/rviz.html)]
 
-## preprocessing WIP
+## modeling
 
 ## kaggle FTR
 
