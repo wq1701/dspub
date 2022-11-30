@@ -1,9 +1,18 @@
 <a name="readme-top"></a>
 
-Public Hosting for demo files and shared materials.
+<!-- Public Hosting for demo files and shared materials. -->
 
-[dstoolbox](https://wq1701.github.io/dstoolbox/) | [dspub](https://wq1701.github.io/dspub/) | [repo](https://github.com/wq1701/dspub)
+<!-- [dstoolbox](https://wq1701.github.io/dstoolbox/) | [dspub](https://wq1701.github.io/dspub/) | [repo](https://github.com/wq1701/dspub) -->
 
+<p align="center">
+    Public Hosting for demo files and shared materials.
+    <br />
+    <a href="https://wq1701.github.io/dstoolbox/">dstoolbox</a>
+    ·
+    <a href="https://wq1701.github.io/dspub/">dspub</a>
+    ·
+    <a href="https://github.com/wq1701/dspub">repo</a>
+</p>
 
 
 - [Data Science Pub](#data-science-pub)
