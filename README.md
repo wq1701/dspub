@@ -23,9 +23,16 @@ Public Hosting for demo files and shared materials.
 # Data Science Pub
 
 [![license](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/wq1701/dspub/blob/main/LICENSE)
-![Python 3.7](https://img.shields.io/badge/python-3.7-blue.svg)
-![Python 3.8](https://img.shields.io/badge/python-3.8-blue.svg)
-![R 4.1.1](https://img.shields.io/badge/R-4.1.1-blue.svg)
+![Python 3.7](https://img.shields.io/badge/python-3.7-%233776AB.svg)
+![Python 3.8](https://img.shields.io/badge/python-3.8-%233776AB.svg)
+![R 4.1.1](https://img.shields.io/badge/R-4.1.1-%2375AADB.svg)
+
+[![made-with-RMarkdown](https://img.shields.io/badge/Made%20with-RMarkdown-%2375AADB?style=flat&logo=Rstudio)](https://rmarkdown.rstudio.com/)
+[![Made withJupyter](https://img.shields.io/badge/Made%20with-Jupyter-%23F37626?style=flat&logo=Jupyter)](https://jupyter.org/try)
+
+<!-- https://shields.io/ -->
+<!-- https://simpleicons.org/?q=rstudio -->
+<!-- https://simpleicons.org/?q=py -->
 
 ## data wrangling
 
