@@ -11,25 +11,38 @@ output:
 **Totally unrelated notes**
 
 If the content below is no longer open or free, please let me know. 
-
 The listed contents are identified as open-source and free at the very time they were taken in.  
 
-# python free books
+# Python free books
 
-[The best free Python resources](https://pythonbooks.revolunet.com)
+- [The best free Python resources](https://pythonbooks.revolunet.com)
+- [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
 
-[Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
 
-# r free books
+- [Think Python 2e](https://greenteapress.com/wp/think-python-2e/)
+- [Data Structures and Information Retrieval in Python](https://greenteapress.com/wp/data-structures-and-information-retrieval-in-python/)
 
-[R for Data Science](https://r4ds.had.co.nz/)
+# R free books
 
-[R for Data Science (2e)](https://r4ds.hadley.nz/)
 
-[R Programming for Data Science](https://bookdown.org/rdpeng/rprogdatascience/)
+- [R for Data Science](https://r4ds.had.co.nz/)
+- [R for Data Science (2e)](https://r4ds.hadley.nz/)
 
-# stat / ML free books
+- [R Programming for Data Science](https://bookdown.org/rdpeng/rprogdatascience/)
 
-[Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/)
+# Stat / ML free books
 
-[Introduction to Probability for Data Science](https://probability4datascience.com/)
+- [Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/)
+- [Introduction to Probability for Data Science](https://probability4datascience.com/)
+
+### available in repos
+
+- [Hands-on Machine Learning 2nd Edition](https://github.com/ageron/handson-ml2)
+
+
+# Explore
+
+- [FiveThirtyEight](https://fivethirtyeight.com/)
+  - [Tag Methodology](https://fivethirtyeight.com/tag/methodology/)
+  - [How Our 2022 World Cup Predictions Work](https://fivethirtyeight.com/features/how-our-2022-world-cup-predictions-work/)
+  - [How Our Club Soccer Predictions Work](https://fivethirtyeight.com/methodology/how-our-club-soccer-predictions-work/)
