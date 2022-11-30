@@ -4,6 +4,8 @@
 
 <!-- [dstoolbox](https://wq1701.github.io/dstoolbox/) | [dspub](https://wq1701.github.io/dspub/) | [repo](https://github.com/wq1701/dspub) -->
 
+<h2 align="center">Data Science Pub</h2>
+
 <p align="center">
     Public Hosting for demo files and shared materials.
     <br />
