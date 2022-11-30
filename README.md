@@ -1,14 +1,10 @@
 Public Hosting for demo files and shared materials.
 
-<details markdown="1">
-<summary>
 **totally unrelated notes**
-</summary>
 
-If the content is about R written in `Rmarkdown`, then I will use theme `rmdformats::readthedown:`
+- If the content is about R written in `Rmarkdown`, then I will use theme `rmdformats::readthedown:`
 
-If it is about Python but rendered in `Rmarkdown`, then the theme will be `rmdformats::downcute:`
-</details>
+- If it is about Python but rendered in `Rmarkdown`, then the theme will be `rmdformats::downcute:`
 
 [dstoolbox](https://wq1701.github.io/dstoolbox/) | [dspub](https://wq1701.github.io/dspub/) | [repo](https://github.com/wq1701/dspub)
 
@@ -19,9 +15,9 @@ If it is about Python but rendered in `Rmarkdown`, then the theme will be `rmdfo
 	- [python coding](#python-coding)
 	- [data visualization WIP](#data-visualization-wip)
 	- [machine learning](#machine-learning)
-	- [kaggle FTR](#kaggle-ftr)
-	- [product data science FTR](#product-data-science-ftr)
 	- [reading](#reading)
+	- [kaggle FTR](#kaggle-ftr)
+	- [prod data science FTR](#prod-data-science-ftr)
 
 
 # Data Science Pub
@@ -41,9 +37,12 @@ If it is about Python but rendered in `Rmarkdown`, then the theme will be `rmdfo
 	- View [[R Markdown](https://wq1701.github.io/dspub/data_wrangling/r_tidyverse/cheatsheet.html)]
 - Translate SQL to Python (Pandas)
 	- Run [[Google Colab](https://colab.research.google.com/github/wq1701/dspub/blob/main/data_wrangling/python/py2sql.ipynb)] \| View [[Jupyter Notebook](https://nbviewer.org/github/wq1701/dspub/blob/main/data_wrangling/python/py2sql.ipynb)]
+	- <a href="https://colab.research.google.com/github/wq1701/dspub/blob/main/data_wrangling/python/py2sql.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+	- <a href="https://nbviewer.org/github/wq1701/dspub/blob/main/data_wrangling/python/py2sql.ipynb"><img src="https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg" alt="Render nbviewer" /></a>
 - Regex 101
 	- Run [[Google Colab](https://colab.research.google.com/github/wq1701/dspub/blob/main/data_wrangling/python/regex_101.ipynb)] \| View [[Jupyter Notebook](https://nbviewer.org/github/wq1701/dspub/blob/main/data_wrangling/python/regex_101.ipynb)]
-
+	- <a href="https://colab.research.google.com/github/wq1701/dspub/blob/main/data_wrangling/python/regex_101.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+	- <a href="https://nbviewer.org/github/wq1701/dspub/blob/main/data_wrangling/python/regex_101.ipynb"><img src="https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg" alt="Render nbviewer" /></a>
 
 ## python coding
 
@@ -71,12 +70,18 @@ If it is about Python but rendered in `Rmarkdown`, then the theme will be `rmdfo
 	- [[Markdown](https://wq1701.github.io/dspub/machine-learning/overview.html)]
 
 - supervised
+	- Linear Regression
+	- Logistic Regression
+	- Support Vector Machines (SVMs)
+	- Decision Trees and Random Forests
+	- k-Nearest Neighbors
+	- Neural networks
 
 - unsupervised
-
-## kaggle FTR
-
-## product data science FTR
+    - Clustering
+    - Anomaly detection & novelty detection
+    - Visualization and dimensionality reduction
+    - Association rule learning
 
 ## reading
 
@@ -87,3 +92,9 @@ If it is about Python but rendered in `Rmarkdown`, then the theme will be `rmdfo
 - Kaggle notebooks
 	- [[Markdown](https://wq1701.github.io/dspub/reading/kaggle-notebooks.html)]
 - Open src lessons
+
+
+## kaggle FTR
+
+## prod data science FTR
+
