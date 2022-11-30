@@ -36,9 +36,9 @@ If it is about Python but rendered in `Rmarkdown`, then the theme will be `rmdfo
 - Things you might forget about R (tidyverse) [to be continued]
 	- View [[R Markdown](https://wq1701.github.io/dspub/data_wrangling/r_tidyverse/cheatsheet.html)]
 - Translate SQL to Python (Pandas)
-	- Run [[Google Colab](https://colab.research.google.com/github/wq1701/dspub/blob/main/data_wrangling/python/py2sql.ipynb)] | View [[Jupyter Notebook](https://nbviewer.org/github/wq1701/dspub/blob/main/data_wrangling/python/py2sql.ipynb)]
+	- Run [[Google Colab](https://colab.research.google.com/github/wq1701/dspub/blob/main/data_wrangling/python/py2sql.ipynb)] \| View [[Jupyter Notebook](https://nbviewer.org/github/wq1701/dspub/blob/main/data_wrangling/python/py2sql.ipynb)]
 - Regex 101
-	- Run [[Google Colab](https://colab.research.google.com/github/wq1701/dspub/blob/main/data_wrangling/python/regex_101.ipynb)] | View [[Jupyter Notebook](https://nbviewer.org/github/wq1701/dspub/blob/main/data_wrangling/python/regex_101.ipynb)]
+	- Run [[Google Colab](https://colab.research.google.com/github/wq1701/dspub/blob/main/data_wrangling/python/regex_101.ipynb)] \| View [[Jupyter Notebook](https://nbviewer.org/github/wq1701/dspub/blob/main/data_wrangling/python/regex_101.ipynb)]
 
 
 ## python coding
