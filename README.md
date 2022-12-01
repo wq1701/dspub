@@ -102,7 +102,7 @@
 
 - overview
 	<!-- - [[Markdown](https://wq1701.github.io/dspub/machine-learning/overview.html)] -->
-	- <a href="https://wq1701.github.io/dspub/machine-learning/overview.html"><img src="https://img.shields.io/badge/Made%20with-Markdown-%23000000?logo=markdown" alt="MD html"/></a>
+	- <a href="https://wq1701.github.io/dspub/machine-learning/overview.html"><img src="https://img.shields.io/badge/Made%20with-Markdown-informational?logo=markdown" alt="MD html"/></a>
 	
 - supervised
 	- Linear Regression
@@ -126,10 +126,10 @@
 
 - Free books
 	<!-- - [[Markdown](https://wq1701.github.io/dspub/reading/freebooks.html)] -->
-	- <a href="https://wq1701.github.io/dspub/reading/freebooks.html"><img src="https://img.shields.io/badge/Made%20with-Markdown-%23000000?logo=markdown" alt="MD html"/></a>
+	- <a href="https://wq1701.github.io/dspub/reading/freebooks.html"><img src="https://img.shields.io/badge/Made%20with-Markdown-informational?logo=markdown" alt="MD html"/></a>
 - Kaggle notebooks
 	<!-- - [[Markdown](https://wq1701.github.io/dspub/reading/kaggle-notebooks.html)] -->
-	- <a href="https://wq1701.github.io/dspub/reading/kaggle-notebooks.html"><img src="https://img.shields.io/badge/Made%20with-Markdown-%23000000?logo=markdown" alt="MD html"/></a>
+	- <a href="https://wq1701.github.io/dspub/reading/kaggle-notebooks.html"><img src="https://img.shields.io/badge/Made%20with-Markdown-informational?logo=markdown" alt="MD html"/></a>
 - Open source lectures
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
