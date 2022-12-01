@@ -101,6 +101,8 @@
 
 ## machine learning
 
+[readme](https://wq1701.github.io/dspub/machine-learning/)
+
 - overview
 	<!-- - [[Markdown](https://wq1701.github.io/dspub/machine-learning/overview.html)] -->
 	- <a href="https://wq1701.github.io/dspub/machine-learning/overview.html"><img src="https://img.shields.io/badge/Made%20with-Markdown-informational?logo=markdown" alt="MD html"/></a>
