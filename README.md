@@ -81,13 +81,13 @@
 
 - Efficient Python
 	<!-- - [[R Markdown site](https://wq1701.github.io/dspub/python_coding/py_effici.html)] -->
-	- <a href="https://wq1701.github.io/dspub/data_wrangling/r_tidyverse/cheatsheet.html"><img src="https://img.shields.io/badge/RMarkdown-HTML-%2375AADB?logo=python" alt="RMD html"/></a>
+	- <a href="https://wq1701.github.io/dspub/python_coding/py_effici.html"><img src="https://img.shields.io/badge/RMarkdown-HTML-%2375AADB?logo=python" alt="RMD html"/></a>
 - Python traps
 	<!-- - [[R Markdown site](https://wq1701.github.io/dspub/python_coding/py_traps.html)] -->
-	- <a href="https://wq1701.github.io/dspub/data_wrangling/r_tidyverse/cheatsheet.html"><img src="https://img.shields.io/badge/RMarkdown-HTML-%2375AADB?logo=python" alt="RMD html"/></a>
+	- <a href="https://wq1701.github.io/dspub/python_coding/py_traps.html"><img src="https://img.shields.io/badge/RMarkdown-HTML-%2375AADB?logo=python" alt="RMD html"/></a>
 - Python quiz
 	<!-- - [[R Markdown site](https://wq1701.github.io/dspub/python_coding/py_guess.html)] -->
-	- <a href="https://wq1701.github.io/dspub/data_wrangling/r_tidyverse/cheatsheet.html"><img src="https://img.shields.io/badge/RMarkdown-HTML-%2375AADB?logo=python" alt="RMD html"/></a>
+	- <a href="https://wq1701.github.io/dspub/python_coding/py_guess.html"><img src="https://img.shields.io/badge/RMarkdown-HTML-%2375AADB?logo=python" alt="RMD html"/></a>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
