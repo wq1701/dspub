@@ -60,13 +60,14 @@
 - Translate SQL to Python (Pandas)
 	<!-- - Run [[Google Colab](https://colab.research.google.com/github/wq1701/dspub/blob/main/data_wrangling/python/py2sql.ipynb)] \| View [[Jupyter Notebook](https://nbviewer.org/github/wq1701/dspub/blob/main/data_wrangling/python/py2sql.ipynb)] -->
 	- <a href="https://colab.research.google.com/github/wq1701/dspub/blob/main/data_wrangling/python/py2sql.ipynb"><img src="./warehouse/badge/colab-badge.svg" alt="Open In Colab"/></a>
-	- <a href="https://nbviewer.org/github/wq1701/dspub/blob/main/data_wrangling/python/py2sql.ipynb"><img src="https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg" alt="Render nbviewer" /></a>
+	- <a href="https://nbviewer.org/github/wq1701/dspub/blob/main/data_wrangling/python/py2sql.ipynb"><img src="./warehouse/badge/nbviewer_badge.svg" alt="Render nbviewer" /></a>
 - Regex 101
 	<!-- - Run [[Google Colab](https://colab.research.google.com/github/wq1701/dspub/blob/main/data_wrangling/python/regex_101.ipynb)] \| View [[Jupyter Notebook](https://nbviewer.org/github/wq1701/dspub/blob/main/data_wrangling/python/regex_101.ipynb)] -->
 	- <a href="https://colab.research.google.com/github/wq1701/dspub/blob/main/data_wrangling/python/regex_101.ipynb"><img src="./warehouse/badge/colab-badge.svg" alt="Open In Colab"/></a>
-	- <a href="https://nbviewer.org/github/wq1701/dspub/blob/main/data_wrangling/python/regex_101.ipynb"><img src="https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg" alt="Render nbviewer" /></a>
+	- <a href="https://nbviewer.org/github/wq1701/dspub/blob/main/data_wrangling/python/regex_101.ipynb"><img src="./warehouse/badge/nbviewer_badge.svg" alt="Render nbviewer" /></a>
 
 <!-- https://colab.research.google.com/assets/colab-badge.svg -->
+<!-- https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg -->
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
