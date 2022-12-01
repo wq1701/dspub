@@ -59,12 +59,14 @@
 	- <a href="https://wq1701.github.io/dspub/data_wrangling/r_tidyverse/cheatsheet.html"><img src="https://img.shields.io/badge/RMarkdown-HTML-%2375AADB?logo=Rstudio" alt="RMD html"/></a>
 - Translate SQL to Python (Pandas)
 	<!-- - Run [[Google Colab](https://colab.research.google.com/github/wq1701/dspub/blob/main/data_wrangling/python/py2sql.ipynb)] \| View [[Jupyter Notebook](https://nbviewer.org/github/wq1701/dspub/blob/main/data_wrangling/python/py2sql.ipynb)] -->
-	- <a href="https://colab.research.google.com/github/wq1701/dspub/blob/main/data_wrangling/python/py2sql.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+	- <a href="https://colab.research.google.com/github/wq1701/dspub/blob/main/data_wrangling/python/py2sql.ipynb"><img src="./warehouse/badge/colab-badge.svg" alt="Open In Colab"/></a>
 	- <a href="https://nbviewer.org/github/wq1701/dspub/blob/main/data_wrangling/python/py2sql.ipynb"><img src="https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg" alt="Render nbviewer" /></a>
 - Regex 101
 	<!-- - Run [[Google Colab](https://colab.research.google.com/github/wq1701/dspub/blob/main/data_wrangling/python/regex_101.ipynb)] \| View [[Jupyter Notebook](https://nbviewer.org/github/wq1701/dspub/blob/main/data_wrangling/python/regex_101.ipynb)] -->
-	- <a href="https://colab.research.google.com/github/wq1701/dspub/blob/main/data_wrangling/python/regex_101.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+	- <a href="https://colab.research.google.com/github/wq1701/dspub/blob/main/data_wrangling/python/regex_101.ipynb"><img src="./warehouse/badge/colab-badge.svg" alt="Open In Colab"/></a>
 	- <a href="https://nbviewer.org/github/wq1701/dspub/blob/main/data_wrangling/python/regex_101.ipynb"><img src="https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg" alt="Render nbviewer" /></a>
+
+<!-- https://colab.research.google.com/assets/colab-badge.svg -->
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -92,15 +94,16 @@
 ## data visualization WIP
 
 - R Visualization
-	- [[R Markdown](https://wq1701.github.io/dspub/data_viz/rplots/rviz.html)]
-
+	<!-- - [[R Markdown](https://wq1701.github.io/dspub/data_viz/rplots/rviz.html)] -->
+	- <a href="https://wq1701.github.io/dspub/data_viz/rplots/rviz.html"><img src="https://img.shields.io/badge/RMarkdown-HTML-%2375AADB?logo=Rstudio" alt="RMD html"/></a>
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## machine learning
 
 - overview
-	- [[Markdown](https://wq1701.github.io/dspub/machine-learning/overview.html)]
-
+	<!-- - [[Markdown](https://wq1701.github.io/dspub/machine-learning/overview.html)] -->
+	- <a href="https://wq1701.github.io/dspub/machine-learning/overview.html"><img src="https://img.shields.io/badge/Made%20with-Markdown-%23000000?logo=markdown" alt="MD html"/></a>
+	
 - supervised
 	- Linear Regression
 	- Logistic Regression
@@ -122,10 +125,12 @@
 **“Open source is about collaborating; not competing.”**
 
 - Free books
-	- [[Markdown](https://wq1701.github.io/dspub/reading/freebooks.html)]
+	<!-- - [[Markdown](https://wq1701.github.io/dspub/reading/freebooks.html)] -->
+	- <a href="https://wq1701.github.io/dspub/reading/freebooks.html"><img src="https://img.shields.io/badge/Made%20with-Markdown-%23000000?logo=markdown" alt="MD html"/></a>
 - Kaggle notebooks
-	- [[Markdown](https://wq1701.github.io/dspub/reading/kaggle-notebooks.html)]
-- Open src lessons
+	<!-- - [[Markdown](https://wq1701.github.io/dspub/reading/kaggle-notebooks.html)] -->
+	- <a href="https://wq1701.github.io/dspub/reading/kaggle-notebooks.html"><img src="https://img.shields.io/badge/Made%20with-Markdown-%23000000?logo=markdown" alt="MD html"/></a>
+- Open source lectures
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
