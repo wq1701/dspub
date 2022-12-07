@@ -8,7 +8,9 @@ Then the solution was adapted to the designing of an automation project in CIME@
 
 
 
-##play with R
+## play with R
+
+[find rawcontent](https://github.com/wq1701/dspub/tree/main/automation/script-generating)
 
 1. make sure the R script `sg_example_code.R` and the template `template_anyscript.m` are in the same directory
 2. execute the R script and toy with different numbers
