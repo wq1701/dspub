@@ -62,7 +62,7 @@
     <!-- - Run [[Google Colab](https://colab.research.google.com/github/wq1701/dspub/blob/main/data_wrangling/python/py2sql.ipynb)] \| View [[Jupyter Notebook](https://nbviewer.org/github/wq1701/dspub/blob/main/data_wrangling/python/py2sql.ipynb)] -->
     - <a href="https://colab.research.google.com/github/wq1701/dspub/blob/main/data_wrangling/python/py2sql.ipynb"><img src="./warehouse/badge/colab-badge.svg" alt="Open In Colab"/></a>
     - <a href="https://nbviewer.org/github/wq1701/dspub/blob/main/data_wrangling/python/py2sql.ipynb"><img src="./warehouse/badge/nbviewer_badge.svg" alt="Render nbviewer" /></a>
-- Regex 101
+- Regex 101 (by Jingchen)
     <!-- - Run [[Google Colab](https://colab.research.google.com/github/wq1701/dspub/blob/main/data_wrangling/python/regex_101.ipynb)] \| View [[Jupyter Notebook](https://nbviewer.org/github/wq1701/dspub/blob/main/data_wrangling/python/regex_101.ipynb)] -->
     - <a href="https://colab.research.google.com/github/wq1701/dspub/blob/main/data_wrangling/python/regex_101.ipynb"><img src="./warehouse/badge/colab-badge.svg" alt="Open In Colab"/></a>
     - <a href="https://nbviewer.org/github/wq1701/dspub/blob/main/data_wrangling/python/regex_101.ipynb"><img src="./warehouse/badge/nbviewer_badge.svg" alt="Render nbviewer" /></a>
@@ -99,7 +99,7 @@
     <!-- - [[R Markdown](https://wq1701.github.io/dspub/data_viz/rplots/rviz.html)] -->
     - <a href="https://wq1701.github.io/dspub/data_viz/rplots/rviz.html"><img src="https://img.shields.io/badge/RMarkdown-HTML-%2375AADB?logo=Rstudio" alt="RMD html"/></a>
 
-- Python Visualization: Based on a Conversion Report
+- Python Visualization: Based on a Conversion Report (by Jingchen)
 	- *Note: data used in this notebook is masked*
 	- <a href="https://colab.research.google.com/github/wq1701/dspub/blob/main/data_viz/python/Python_Visualization_Application_clean.ipynb"><img src="./warehouse/badge/colab-badge.svg" alt="Open In Colab"/></a>
 	- <a href="https://nbviewer.org/github/wq1701/dspub/blob/main/data_viz/python/Python_Visualization_Application_clean.ipynb"><img src="./warehouse/badge/nbviewer_badge.svg" alt="Render nbviewer" /></a>
@@ -120,20 +120,22 @@
     <!-- - [[Markdown](https://wq1701.github.io/dspub/machine-learning/overview.html)] -->
     - <a href="https://wq1701.github.io/dspub/machine-learning/overview.html"><img src="https://img.shields.io/badge/Made%20with-Markdown-informational?logo=markdown" alt="MD html"/></a>
     
-- supervised
-    - Linear Regression
-    - Logistic Regression
-    - Support Vector Machines (SVMs)
-    - Decision Trees and Random Forests
-    - k-Nearest Neighbors
-    - Neural networks
+    - supervised
+        - Linear Regression
+        - Logistic Regression
+        - Support Vector Machines (SVMs)
+        - Decision Trees and Random Forests
+        - k-Nearest Neighbors
+        - Neural networks
 
-- unsupervised
-    - Clustering
-    - Anomaly detection & novelty detection
-    - Visualization and dimensionality reduction
-    - Association rule learning
+    - unsupervised
+        - Clustering
+        - Anomaly detection & novelty detection
+        - Visualization and dimensionality reduction
+        - Association rule learning
 
+- Decision Tree (by Yuxuan)
+    - <a href="https://colab.research.google.com/github/wq1701/dspub/blob/main/machine-learning/decisiontree1227.ipynb"><img src="./warehouse/badge/colab-badge.svg" alt="Open In Colab"/></a>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
