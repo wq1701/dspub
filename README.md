@@ -20,14 +20,14 @@
 </div>
 
 - [Data Science Pub](#data-science-pub)
-	- [data wrangling](#data-wrangling)
-	- [python coding](#python-coding)
-	- [data visualization](#data-visualization)
-	- [automation](#automation)
-	- [machine learning](#machine-learning)
-	- [reading](#reading)
-	- [kaggle FTR](#kaggle-ftr)
-	- [prod data science FTR](#prod-data-science-ftr)
+  - [data wrangling](#data-wrangling)
+  - [python coding](#python-coding)
+  - [data visualization](#data-visualization)
+  - [automation](#automation)
+  - [machine learning](#machine-learning)
+  - [reading](#reading)
+  - [kaggle FTR](#kaggle-ftr)
+  - [prod data science FTR](#prod-data-science-ftr)
 
 
 **totally unrelated notes**
@@ -62,7 +62,7 @@
     <!-- - Run [[Google Colab](https://colab.research.google.com/github/wq1701/dspub/blob/main/data_wrangling/python/py2sql.ipynb)] \| View [[Jupyter Notebook](https://nbviewer.org/github/wq1701/dspub/blob/main/data_wrangling/python/py2sql.ipynb)] -->
     - <a href="https://colab.research.google.com/github/wq1701/dspub/blob/main/data_wrangling/python/py2sql.ipynb"><img src="./warehouse/badge/colab-badge.svg" alt="Open In Colab"/></a>
     - <a href="https://nbviewer.org/github/wq1701/dspub/blob/main/data_wrangling/python/py2sql.ipynb"><img src="./warehouse/badge/nbviewer_badge.svg" alt="Render nbviewer" /></a>
-- Regex 101 (by Jingchen)
+- Regex 101 (by J.Hu)
     <!-- - Run [[Google Colab](https://colab.research.google.com/github/wq1701/dspub/blob/main/data_wrangling/python/regex_101.ipynb)] \| View [[Jupyter Notebook](https://nbviewer.org/github/wq1701/dspub/blob/main/data_wrangling/python/regex_101.ipynb)] -->
     - <a href="https://colab.research.google.com/github/wq1701/dspub/blob/main/data_wrangling/python/regex_101.ipynb"><img src="./warehouse/badge/colab-badge.svg" alt="Open In Colab"/></a>
     - <a href="https://nbviewer.org/github/wq1701/dspub/blob/main/data_wrangling/python/regex_101.ipynb"><img src="./warehouse/badge/nbviewer_badge.svg" alt="Render nbviewer" /></a>
@@ -134,8 +134,10 @@
         - Visualization and dimensionality reduction
         - Association rule learning
 
-- Decision Tree (by Yuxuan)
+- Decision Tree (by Y.Tang)
     - <a href="https://colab.research.google.com/github/wq1701/dspub/blob/main/machine-learning/decisiontree1227.ipynb"><img src="./warehouse/badge/colab-badge.svg" alt="Open In Colab"/></a>
+- Feature Engineering
+    - general overview
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
