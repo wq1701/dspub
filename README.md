@@ -99,7 +99,7 @@
     <!-- - [[R Markdown](https://wq1701.github.io/dspub/data_viz/rplots/rviz.html)] -->
     - <a href="https://wq1701.github.io/dspub/data_viz/rplots/rviz.html"><img src="https://img.shields.io/badge/RMarkdown-HTML-%2375AADB?logo=Rstudio" alt="RMD html"/></a>
 
-- Python Visualization: Based on a Conversion Report (by Jingchen)
+- Python Visualization: Based on a Conversion Report (by J.Hu)
 	- *Note: data used in this notebook is masked*
 	- <a href="https://colab.research.google.com/github/wq1701/dspub/blob/main/data_viz/python/Python_Visualization_Application_clean.ipynb"><img src="./warehouse/badge/colab-badge.svg" alt="Open In Colab"/></a>
 	- <a href="https://nbviewer.org/github/wq1701/dspub/blob/main/data_viz/python/Python_Visualization_Application_clean.ipynb"><img src="./warehouse/badge/nbviewer_badge.svg" alt="Render nbviewer" /></a>
