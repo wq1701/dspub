@@ -135,7 +135,7 @@
         - Association rule learning
 
 - Decision Tree (by Y.Tang)
-    - <a href="https://colab.research.google.com/github/wq1701/dspub/blob/main/machine-learning/decisiontree1227.ipynb"><img src="./warehouse/badge/colab-badge.svg" alt="Open In Colab"/></a>
+    - <a href="https://colab.research.google.com/github/wq1701/dspub/blob/main/machine-learning/supervised/decisiontree1227.ipynb"><img src="./warehouse/badge/colab-badge.svg" alt="Open In Colab"/></a>
 - Feature Engineering
     - general overview
 
