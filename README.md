@@ -11,7 +11,7 @@
   <p align="center">
 	Public Hosting for demo files and shared materials.
 	<br />
-	<a href="https://wq1701.github.io/dstoolbox/">dstoolbox</a>
+	<a href="https://wq1701.github.io/dsvault/">dsvault</a>
 	·
 	<a href="https://wq1701.github.io/dspub/">dspub</a>
 	·
